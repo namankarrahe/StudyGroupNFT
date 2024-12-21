@@ -12,6 +12,8 @@ The contract also includes a simple reward system that allows students to earn E
 ## Contract Address
 
 0x618b01d7E44469E2aC63C4C9dA66362a7463d8E3
+![image](https://github.com/user-attachments/assets/ca749116-554e-4580-9f1c-84beab18fa9f)
+
 
 ## Project Vision
 
